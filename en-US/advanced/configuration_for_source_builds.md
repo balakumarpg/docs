@@ -7,7 +7,7 @@ name: Detailed Config From Source
 Following the instruction of building [from source](/docs/installation/install_from_source), you should now have a local user `git` and a working setup of `go` and [Gogs](http://gogs.io/).
 We are going to setup Gogs along with **Nginx**. This way, we can take advantage of Nginx. This is useful for servers that already have an Nginx running.
 
-For the rest fo this document, we'll assume the following:
+For the rest of this document, we'll assume the following:
 
 - You want to serve 'Gogs' on `example.com` domain
 - Nginx is your webserver
